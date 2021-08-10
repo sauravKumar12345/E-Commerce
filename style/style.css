@@ -1,0 +1,26 @@
+._3704LK{
+    padding: 0 16px;
+border-radius: 2px 0 0 2px;
+border: 0;
+outline: 0 none;
+font-size: 14px;
+height: 36px;
+width: 450px;
+}
+
+.navbar-brand{
+    font-family: 'Cormorant Garamond', serif;
+}
+.nav-link{
+    font-family: 'Merriweather', serif;
+}
+#font1{
+    font-family: 'Cormorant Garamond', serif;
+    color: white;
+    font-weight: bolder;
+    font-size:x-large
+}
+#size1{
+    font-weight: bold;
+    color: white;
+}
